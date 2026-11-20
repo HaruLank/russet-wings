@@ -1,0 +1,8 @@
+package russet-wings
+version = 0.1.0
+
+sourcedir = "src"
+executable = russet-wings
+main = Main
+
+depends = idris2
